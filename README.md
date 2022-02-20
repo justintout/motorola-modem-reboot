@@ -8,9 +8,7 @@ Ships with the default username and password.
 ## Installation
 
 ```
-$ git clonegit@github.com:justinout/motorola-modem-reboot.git
-$ cd motorola-modem-reboot
-$ npm install
+$ npm install -g @justintout/motorola-modem-reboot
 ```
 
 ## Usage
