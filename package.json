@@ -1,7 +1,7 @@
 {
   "name": "motorola-modem-reboot",
-  "version": "0.0.1",
-  "description": "Tool to programatically reboot Motorola modem",
+  "version": "1.0.0",
+  "description": "Tool to programatically reboot Motorola modems using Playwright",
   "main": "dist/index.js",
   "bin": {
     "reboot-modem": "./dist/index.js"
